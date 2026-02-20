@@ -1564,7 +1564,7 @@
         font-size: 28px;
       }
     }
-    @media screen and (min-width: 100px) and (max-width: 500px) {
+    @media screen and (min-width: 100px) and (max-width: 480px) {
       .latest-img {
         height: 300px;
         width: 200px;
@@ -1599,6 +1599,7 @@
         top: 2100px;
       }
     }
+
 
 
 
