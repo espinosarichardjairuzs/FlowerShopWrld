@@ -1564,7 +1564,7 @@
         font-size: 28px;
       }
     }
-    @media screen and (min-width: 100px) and (max-width: 600px) {
+    @media screen and (min-width: 100px) and (max-width: 500px) {
       .latest-img {
         height: 300px;
         width: 200px;
@@ -1577,28 +1577,29 @@
 
       .sca {
         position: absolute;
-        left: 65px;
-        top: 980px;
+        left: 70px;
+        top: 970px;
       }
 
       .oct {
         position: absolute;
-        left: 65px;
-        top: 1450px;
+        left: 70px;
+        top: 1300px;
       }
 
       .wss {
         position: absolute;
-        left: 65px;
-        top: 1850px;
+        left: 70px;
+        top: 1700px;
       }
 
       .nga {
         position: absolute;
-        left: 65px;
-        top: 2300px;
+        left: 70px;
+        top: 2100px;
       }
     }
+
 
 
 
