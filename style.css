@@ -1211,6 +1211,7 @@
       align-items: center;
       gap: 30px;
       flex-wrap: wrap;
+      margin-bottom: 20px;
     }
 
     .latest-img {
@@ -1450,7 +1451,7 @@
       margin: 0%;
     }
 
-    @media screen and (min-width: 500px) and (max-width: 800px) {
+    @media screen and (min-width: 400px) and (max-width: 800px) {
       .menu li {
         padding: 0.1rem 1rem;
         display: inline-block;
