@@ -1577,28 +1577,29 @@
 
       .sca {
         position: absolute;
-        left: 80px;
-        top: 900px;
+        left: 60px;
+        top: 1000px;
       }
 
       .oct {
         position: absolute;
-        left: 80px;
-        top: 1300px;
+        left: 60px;
+        top: 1500px;
       }
 
       .wss {
         position: absolute;
-        left: 80px;
-        top: 1840px;
+        left: 60px;
+        top: 2000px;
       }
 
       .nga {
         position: absolute;
-        left: 80px;
-        top: 2300px;
+        left: 60px;
+        top: 2600px;
       }
     }
+
 
 
 
