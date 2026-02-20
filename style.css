@@ -1547,18 +1547,55 @@
       .text-about {
         font-size: 16px;
       }
+
       .bi-facebook {
         margin: 0%;
         height: 30px;
         width: 30px;
       }
+
       .bi-info-circle-fill {
         margin: 0%;
         height: 30px;
         width: 30px;
       }
+
       #name {
         font-size: 28px;
       }
     }
-    
+    @media screen and (min-width: 100px) and (max-width: 480px) {
+      .latest-img {
+        height: 300px;
+        width: 200px;
+        margin-bottom: 74px;
+      }
+
+      .latestBuzz {
+        font-size: 24px;
+      }
+
+      .sca {
+        position: absolute;
+        left: 100px;
+        top: 900px;
+      }
+
+      .oct {
+        position: absolute;
+        left: 100px;
+        top: 1200px;
+      }
+
+      .wss {
+        position: absolute;
+        left: 100px;
+        top: 1500px;
+      }
+
+      .nga {
+        position: absolute;
+        left: 100px;
+        top: 1800px;
+      }
+    }
